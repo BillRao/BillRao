@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BillRao
+- 👋 Hi, I’m @BillRaoul
 - 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning python for machine learning
-- 💞️ I’m looking to collaborate on python algorithms for data analysis and machine learning
+- 🌱 I’m currently learning python for data science and machine learning
+- 💞️ I’m looking to collaborate on python algorithms development for data analysis and machine learning
 - 📫 How to reach me rmouafo@gmail.com
 
 <!---
